@@ -1,0 +1,36 @@
+div {
+    /* background-color: rgb(207, 239, 202); */
+}
+
+.icons {
+    padding-top: 0.5em;
+    padding-bottom: 0.1em;
+    padding-left: 0.25em;
+    padding-right: 0.25em;
+    background-color: rgb(207, 239, 202);
+    border-radius: 10px;
+    margin-left: 0.5em;
+    margin-right: 0.5em;
+}
+
+#profilepic {
+    border-radius: 10px;
+    margin-bottom: 1em;
+}
+
+#iright {
+    margin-left: 3em;
+    margin-right: 5em;
+    margin-top: 5em;
+}
+
+#ileft {
+    margin-left: 5em;
+    margin-right: 3em;
+    margin-top: 5em;
+}
+
+#email {
+    font-size: 13px;
+    text-align: center;
+}
