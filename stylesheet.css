@@ -1,5 +1,17 @@
-div {
-    /* background-color: rgb(207, 239, 202); */
+body {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    width: 90%;
+    justify-self: center;
+    border: 2px solid rgb(94, 200, 78);
+    border-radius: 10px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+#wrap {
+    width: 90%;
+    justify-self: center;
+    padding-bottom: 2em;
 }
 
 .icons {
@@ -20,17 +32,60 @@ div {
 
 #iright {
     margin-left: 3em;
-    margin-right: 5em;
-    margin-top: 5em;
+    /* margin-right: 5em; */
+    margin-top: 1em;
 }
 
 #ileft {
-    margin-left: 5em;
+    /* margin-left: 5em; */
     margin-right: 3em;
-    margin-top: 5em;
+    margin-top: 2em;
 }
 
 #email {
     font-size: 13px;
-    text-align: center;
+    text-shadow: 2px 2px rgb(207, 239, 202);
+}
+
+#eicon {
+    padding-right: 1em;
+}
+
+h1 {
+    text-shadow: 4px 4px rgb(207, 239, 202);
+}
+
+h2 {
+    text-shadow: 3px 3px rgb(207, 239, 202);
+}
+
+.academiclist {
+    list-style-type: '\1F4DA';
+    /* margin-left: 5em; */
+}
+
+.hobbylist {
+    list-style-type: '\1F97E';
+    /* margin-left: 5em; */
+}
+
+li {
+    padding-left: 0.5em;
+}
+
+.rprojbox {
+    border: 3px solid rgb(207, 239, 202);
+    border-radius: 10px;
+    /* margin-left: 5em;
+    margin-right: 5em; */
+    padding: 1em;
+    margin-top: 1em;
+}
+
+.rpics {
+    border-radius: 10px;
+}
+
+.rleft {
+    margin-right: 1em;
 }
