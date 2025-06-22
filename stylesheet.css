@@ -120,11 +120,11 @@ li {
     }
 
     body {
-        /* border: 0px; */
-        width: 90%;
+        border: 0px;
+        width: 100%;
     }
 
     #wrap {
-        width: 90%;
+        width: 93%;
     }
 }
