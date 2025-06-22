@@ -112,4 +112,14 @@ li {
         flex-direction: column;
         align-items: center;
     }
+
+    body {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 350px) {
+    .rpics {
+        width: 70vw;
+    }
 }
