@@ -120,8 +120,8 @@ li {
     }
 
     body {
-        border: 0px;
-        width: 100%;
+        /* border: 0px; */
+        width: 95%;
     }
 
     #wrap {
