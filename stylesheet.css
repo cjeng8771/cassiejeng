@@ -31,8 +31,6 @@ body {
 }
 
 #iright {
-    margin-left: 3em;
-    /* margin-right: 5em; */
     margin-top: 1em;
 }
 
@@ -88,4 +86,27 @@ li {
 
 .rleft {
     margin-right: 1em;
+}
+
+@media screen and (max-width: 710px) {
+    #intro {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .rprojbox {
+        display: flex;
+        flex-direction: column;
+    }
+
+    #iright {
+        margin: 0px;
+    }
+
+    #ileft {
+        margin-right: 0px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
 }
