@@ -4,14 +4,16 @@ body {
     justify-self: center;
     border: 2px solid rgb(94, 200, 78);
     border-radius: 10px;
-    margin-top: 50px;
-    margin-bottom: 50px;
+    margin-top: 4vw;
+    margin-bottom: 4vw;
+    /* margin-bottom: 50px; */
 }
 
 #wrap {
     width: 90%;
     justify-self: center;
-    padding-bottom: 2em;
+    /* padding-bottom: 2em; */
+    padding-bottom: 3vw;
 }
 
 .icons {
@@ -37,7 +39,8 @@ body {
 #ileft {
     /* margin-left: 5em; */
     margin-right: 3em;
-    margin-top: 2em;
+    /* margin-top: 2em; */
+    margin-top: 3vw;
 }
 
 #email {
